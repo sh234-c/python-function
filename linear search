@@ -1,0 +1,11 @@
+arr=[1,2,3,4,5]
+num=5
+n=len(arr)
+for i in range(n):
+  if num==arr[i]:
+#     index = i
+#     break
+# print("\nNumber Found at Index Number: ")
+      print(i)
+else:
+    print(-1)
