@@ -1,0 +1,22 @@
+m=[
+    [4,4,4,4],
+    [4,4,4,4],
+    [4,4,4,4]
+] 
+n=[
+    [3,3,3,3],
+    [3,3,3,3],
+    [3,3,3,3]
+] 
+# print()
+# mult=[]
+# for i in range(3):
+#     row=[]
+#     for j in range(4):
+#         row.append(m[i][j]*n[i][j])
+#     mult.append(row)
+#     # print(diff)
+# for i in mult:
+#     for j in i:
+#         print(j,end=" ")
+#     print() 
