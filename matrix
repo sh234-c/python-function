@@ -1,0 +1,31 @@
+
+# a=[[1,2,3],[4,5,6]]
+# for i in a:
+#     for j in i:
+#         print(j,  end=" ")
+# a=[[3,4,5],[8,9,7]]
+# for i in a:
+#     print(i)
+# sum of two matrix
+m=[
+    [4,4,4,4],
+    [4,4,4,4],
+    [4,4,4,4]
+] 
+n=[
+    [3,3,3,3],
+    [3,3,3,3],
+    [3,3,3,3]
+] 
+# print()
+# diff=[]
+# for i in range(3):
+#     row=[]
+#     for j in range(4):
+#         row.append(m[i][j]-n[i][j])
+#     diff.append(row)
+#     # print(diff)
+# for i in diff:
+#     for j in i:
+#         print(j,end=" ")
+#     print() 
